@@ -18,6 +18,7 @@ export default function getPostMetadata(basePath) {
       sub_title: matterResolve.data.sub_title,
       minutes_to_read: matterResolve.data.minutes_to_read,
       description: matterResolve.data.description,
+      date: matterResolve.data.date,
       slug: filename.replace(".md", ""),
     };
   });

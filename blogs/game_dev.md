@@ -3,6 +3,7 @@ title: "The Game Development Process: From Concept to Release"
 sub_title: "A Comprehensive Guide to Developing a Successful Game"
 minutes_to_read: "7 minutes read"
 description: "Explore the step-by-step process of developing a game, from conceptualization and design to coding, testing, and release."
+date: "2024-06-04"
 ---
 
 # The Game Development Process: From Concept to Release

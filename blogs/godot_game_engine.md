@@ -3,6 +3,7 @@ title: "Godot Game Engine Overview"
 sub_title: "Discover the features and benefits of using Godot for game development"
 minutes_to_read: "5 minutes read"
 description: "An introduction to Godot, an open-source game engine known for its flexibility and ease of use, suitable for both 2D and 3D game development."
+date: "2024-06-04"
 ---
 
 # Godot Game Engine

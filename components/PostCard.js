@@ -6,6 +6,7 @@ export default function PostCard(props) {
   return (
     <Link href={`/blog/${post.slug}`} className="unstyled">
       <div className="postCard">
+        <p>{post.date}</p>
         <h1> {post.title} </h1>
         <p>{post.sub_title}</p>
         <div className="statsContainer">

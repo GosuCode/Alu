@@ -3,6 +3,7 @@ title: "Flutter: Building Beautiful and Natively Compiled Applications"
 sub_title: "An Introduction to Flutter for Cross-Platform Development"
 minutes_to_read: "5 minutes read"
 description: "Explore Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase."
+date: "2024-06-04"
 ---
 
 # Flutter: Building Beautiful and Natively Compiled Applications

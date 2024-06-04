@@ -3,6 +3,7 @@ title: "Apple Pie Recipe"
 sub_title: "Let me show you how to prepare Apple Pie"
 minutes_to_read: "5 minutes read"
 description: "A traditional pie with a flaky crust and a sweet, spiced apple filling, perfect for any occasion."
+date: "2024-06-04"
 ---
 
 # Classic Apple Pie
