@@ -4,7 +4,7 @@ export default function PostCard(props) {
   const { post } = props;
 
   return (
-    <Link href={""} className="unstyled">
+    <Link href={`/blog/${post.slug}`} className="unstyled">
       <div className="postCard">
         <h1> {post.title} </h1>
         <p>{post.sub_title}</p>
