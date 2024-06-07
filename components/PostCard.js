@@ -22,7 +22,7 @@ export default function PostCard(props) {
   return (
     <Link href={`/blog/${post.slug}`} className="unstyled">
       <div className="postCard">
-        <h1 className={`${yatra_one.className} text-3xl text-blue-700`}> {post.title} </h1>
+        <h1 className={`${yatra_one.className} text-3xl text-green-700`}> {post.title} </h1>
         <p>{post.date}</p>
         <p className={share_tech_mono.className}>{post.sub_title}</p>
         <div className="statsContainer">
