@@ -1,4 +1,3 @@
-import PostCard from "@/components/PostCard"
 import SearchView from "@/components/SearchView"
 import getPostMetadata from "@/utils/getPostMetadata"
 
